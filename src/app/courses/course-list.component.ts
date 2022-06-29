@@ -9,6 +9,6 @@ import { Component } from "@angular/core";
 export class CourseListComponent {
 
     oneWayDataBinding='lucas'
-    twoWayDataBinding=""
+    twoWayDataBinding="cassio"
 
 }
